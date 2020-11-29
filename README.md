@@ -1,7 +1,7 @@
-downing.io
+http://manoharreddy.tk/   and https://redman1037.github.io/
 ================================================================================
 
-Source code for my personal website. MIT Licensed. Contains a copy of my resume, 
+Source code for my personal website. MIT Licensed. Contains a copy of my resume,
 as well as some links to Github. :octocat:
 
 ## Forking Note
@@ -27,15 +27,15 @@ Based on the
 from [Start Bootstrap](http://startbootstrap.com/).
 The theme is also MIT Licensed.
 
-View it here: [downing.io](https://downing.io/)
+View it here: [manoharreddy.tk](http://manoharreddy.tk/)
 
-Check out some of my other webpages at 
-[github.com/JasonD94/](https://github.com/JasonD94/)
+Check out some of my other webpages at
+[github.com/Redman1037/](https://github.com/Redman1037)
 
 ##### NOTE:
 
-I have a custom domain connected to GitHub, so my GitHub Pages repositories 
-do not follow the usual GITHUB-USERNAME-HERE.github.io/REPOSITORY-NAME-HERE format. 
-Instead they follow a "downing.io/REPOSITORY-NAME-HERE" format. 
-If the domain fails for some reason, you can still access my site by going to 
-[https://jasond94.github.io](https://jasond94.github.io)
+I have a custom domain connected to GitHub, so my GitHub Pages repositories
+do not follow the usual GITHUB-USERNAME-HERE.github.io/REPOSITORY-NAME-HERE format.
+Instead they follow a "downing.io/REPOSITORY-NAME-HERE" format.
+If the domain fails for some reason, you can still access my site by going to
+[https://redman1037.github.io/](https://redman1037.github.io/)
