@@ -1,4 +1,4 @@
-http://manoharreddy.tk/   and https://redman1037.github.io/
+http://manoharreddy.ml/   and https://redman1037.github.io/
 ================================================================================
 
 Source code for my personal website. MIT Licensed. Contains a copy of my resume,
@@ -17,7 +17,6 @@ Built using:
 [HTML5](https://developers.google.com/web/)  
 [Bootstrap](http://getbootstrap.com/) for CSS  
 [jQuery](https://jquery.com/) for JS  
-[namecheap](https://www.namecheap.com/) for the awesome domain  
 [GitHub Pages](https://pages.github.com/) for hosting  
 [Freenom](https://www.freenom.com/en/index.html?lang=en) for custom domain  
 [git](https://git-scm.com/) for source control
@@ -27,7 +26,7 @@ Based on the
 from [Start Bootstrap](http://startbootstrap.com/).
 The theme is also MIT Licensed.
 
-View it here: [manoharreddy.tk](http://manoharreddy.tk/)
+View it here: [manoharreddy.ml](http://manoharreddy.ml/)
 
 ##### NOTE:
 
