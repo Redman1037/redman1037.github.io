@@ -1,4 +1,4 @@
-http://manoharreddy.ml/   and https://redman1037.github.io/
+[http://manoharreddy.in/](https://manoharreddy.in/)  and https://redman1037.github.io/
 ================================================================================
 
 Source code for my personal website. MIT Licensed. Contains a copy of my resume,
