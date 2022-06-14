@@ -1,4 +1,4 @@
-http://manoharreddy.ml/   and https://redman1037.github.io/
+[http://manoharreddy.in/](https://manoharreddy.in/)  and https://redman1037.github.io/
 ================================================================================
 
 Source code for my personal website. MIT Licensed. Contains a copy of my resume,
@@ -18,7 +18,8 @@ Built using:
 [Bootstrap](http://getbootstrap.com/) for CSS  
 [jQuery](https://jquery.com/) for JS  
 [GitHub Pages](https://pages.github.com/) for hosting  
-[Freenom](https://www.freenom.com/en/index.html?lang=en) for custom domain  
+~~[Freenom](https://www.freenom.com/en/index.html?lang=en) for custom domain~~  
+[BigRock](https://www.bigrock.in) for custom domain  
 [git](https://git-scm.com/) for source control
 
 Based on the
